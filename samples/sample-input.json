@@ -1,0 +1,21 @@
+{
+  "product": {
+    "repository": "obs-onboarding-preset-manager",
+    "title": "導入・プリセット管理"
+  },
+  "items": [
+    {
+      "id": "obs-onboarding-preset-manager-happy",
+      "title": "導入・プリセット管理 happy",
+      "status": "ready",
+      "tags": [
+        "obsstreaming"
+      ],
+      "presetName": "Starter",
+      "obsVersion": "30.x",
+      "profilePath": "OBS/Profile",
+      "owner": "closed-alpha",
+      "rollbackPlan": "導入・プリセット管理 の確認観点"
+    }
+  ]
+}
