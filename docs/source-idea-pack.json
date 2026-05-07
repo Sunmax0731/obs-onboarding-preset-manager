@@ -1,0 +1,66 @@
+{
+  "rank": 64,
+  "domain": "OBSStreaming",
+  "ideaNo": 2,
+  "ideaName": "導入・プリセット管理",
+  "repository": "obs-onboarding-preset-manager",
+  "publish": "GitHub Release / BOOTH",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/OBSStreaming/created_idea_002_obs-onboarding-preset-manager",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/OBSStreaming/created_idea_002_obs-onboarding-preset-manager/idea_002_obs-onboarding-preset-manager.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "OBSStreaming",
+    "no": 2,
+    "platform": "OBSStreaming",
+    "field": "配信・録画運用",
+    "integration": "",
+    "idea": "導入・プリセット管理",
+    "overview": "初期設定、用途別テンプレート、頻出設定をまとめる。 入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+    "problem": "毎回の設定や入力が重複し、作業開始までに時間がかかる。",
+    "similar": "OBS Studio, Stream Deck, StreamElements, Twitch Dashboard",
+    "diff": "配信前確認、録画証跡、音声・画面状態を日本語UIで一括管理する。 日本語の用途別プリセットと実行履歴を残す。",
+    "parent": "Plugins",
+    "startPromptFile": "START_PROMPT.md",
+    "documents": [
+      "START_PROMPT.md",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md",
+      "metadata.json"
+    ],
+    "repositoryName": "obs-onboarding-preset-manager",
+    "repositoryTitle": "obs-onboarding-preset-manager",
+    "zipFile": "idea_002_obs-onboarding-preset-manager.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}
